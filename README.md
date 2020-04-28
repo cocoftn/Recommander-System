@@ -5,4 +5,4 @@ LCARS-Data-Collection.ipynb : Contains all the code for the generation of the da
 
 I am working on another version of the model that does not take into consideration content information of saptial items : Location-Aware LDA (LA-LDA)
 
-I plan to test the model on DoubanEvent data set, that contains content informations.
+I plan to test the model on DoubanEvent data set, which contains content informations.
